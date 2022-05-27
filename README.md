@@ -7,7 +7,7 @@ Ini folder-folder belajar tentang flutter silahkan di coba
 - container
 - animated container
 - row dan column
-- stack align widget
+- stack align widget === > Malam Ini
 - text style 
-- anonympus method
-- statelss statful widget
+- anonympus method === > Malma Ini
+- statelss statful widget === > Malam Ini
